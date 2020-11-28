@@ -1,1 +1,1 @@
-web: gunicorn sscollection1.wsgi --log-file -
+web: gunicorn sscollection1.shop.wsgi
