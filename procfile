@@ -1,1 +1,1 @@
-web: gunicorn  ecom:sscollecion1
+web gunicorn  sscollecion1.wsgi
