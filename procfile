@@ -1,1 +1,1 @@
-web: gunicorn sscollection1.wsgi
+web: gunicorn  sscollection1:app --preload
