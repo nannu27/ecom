@@ -1,1 +1,1 @@
-web gunicorn  sscollecion1.wsgi
+web : gunicorn  sscollecion1.wsgi
