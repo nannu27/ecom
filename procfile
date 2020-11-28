@@ -1,1 +1,1 @@
-web: gunicorn sscollection1.wsgi shop:app
+web: gunicorn  shop:app
