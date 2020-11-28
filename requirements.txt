@@ -14,3 +14,4 @@ static3==0.7.0
 urllib3==1.25.10
 django-heroku==0.3.1
 dj-static==0.0.6
+python3-6
