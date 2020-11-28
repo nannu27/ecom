@@ -1,1 +1,1 @@
-web: gunicorn  sscollection1:app
+web: gunicorn  shop:app
